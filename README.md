@@ -1,7 +1,7 @@
 [![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-female-developer-working-at-a-table-at-night-picture-image_2734060.jpg)]()
 <h1 align="center">Hi 👋, I'm Revathi Bollikonda</h1>
 <h3 align="center">Building dynamic, responsive, and user-friendly web interfaces with modern frontend technologies</h3>
-
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnwOzNa916xZ9ZWitFfdMh-evYhYn4o_LxhA&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revathi-bollikonda&label=Profile%20views&color=0e75b6&style=flat" alt="revathi-bollikonda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/revathi0306" target="blank"><img src="https://img.shields.io/twitter/follow/revathi0306?logo=twitter&style=for-the-badge" alt="revathi0306" /></a> </p>
